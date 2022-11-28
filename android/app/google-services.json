@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82662517740",
+    "project_id": "tourism-app-22532",
+    "storage_bucket": "tourism-app-22532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82662517740:android:10516e7345e49ad93e2ec9",
+        "android_client_info": {
+          "package_name": "com.gurbinaUn.toursim_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82662517740-jv222f65djh8ssldj1e0idd2m96qf6d6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf-1q2b0yVSHEsVivogKB8lkftIHc5scQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82662517740-jv222f65djh8ssldj1e0idd2m96qf6d6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
